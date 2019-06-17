@@ -1,0 +1,32 @@
+@{
+    var user = (string) ViewData["LoginE"];
+}
+            <div class="menu">
+            <!-- <ul><a href='@Url.Action("Index", "Home")'>HOME</a></ul> -->
+            <nav class="p1">
+            
+            <ul><a href='@Url.Action("Index", "Home")#plano'>PLANOS</a></ul>
+            <ul><a href='@Url.Action("Index", "Home")#contato'>CONTATOS</a></ul>
+            </nav>
+            <img src="~/imgens/logo.png" alt="logo" class="logotipo" height="250px" width="212,5px;">
+            <nav class="p2">
+            <ul><a href='@Url.Action("Index", "Home")#historia'>QUEM SOMOS</a></ul>       
+            @if (!string.IsNullOrEmpty(user))
+            {
+                @if(user.Equals("adm@agoravai.com")){
+                    <ul><a href='@Url.Action("Index", "Administrador")'>CONTROLAR</a></ul>
+                    <ul><a href='@Url.Action("Logout", "Usuario")'>LOGOUT</a></ul>  
+                }else
+                {
+                <ul><a href='@Url.Action("Index", "Comentar")'>COMENTAR</a></ul>
+                <ul><a href='@Url.Action("Logout", "Usuario")'>LOGOUT</a></ul>  
+                }
+            }
+            else{
+                <ul><a href='@Url.Action("Index", "Cadastro")' id="bt_login">LOGIN</a></ul>
+
+            }     
+            </nav>
+            </div>
+        
+        

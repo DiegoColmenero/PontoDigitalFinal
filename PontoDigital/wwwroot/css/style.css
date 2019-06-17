@@ -1,0 +1,1161 @@
+﻿*{
+    margin: 0;
+}
+script{
+    display: none;
+}
+.menu{
+    display: flex;
+    background-color: #005eb9;
+}
+.p1{
+    display: flex;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 19%;
+    font-size: 1.8em;
+    font-family: 'Neucha', cursive;
+}
+.p2{
+    display: flex;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 15%;
+    font-size: 1.8em;
+    font-family: 'Neucha', cursive;
+    text-align: center;
+}   
+nav ul a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    font-weight: bold;
+    padding-top: 46px;
+    padding-bottom: 46px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.logotipo{
+   position: absolute;
+   left: 43%;
+}
+.menu a:hover{
+    background-color: #ffa61f;
+    color: #000;
+}
+.banner h1{
+    text-align: center;
+    font-size: 3.5em;
+    font-family: 'Neucha', cursive;
+    color: white;
+    padding-top: 18%;
+    text-shadow: 3px 3px #005eb9;
+}
+.banner{
+    background-image: url(../imgens/pc.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 900px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10%;
+}
+.main h2{
+    color: #005eb9;
+    font-size: 3em;
+    font-family: 'Neucha', cursive;
+}
+.oqe h3{
+    color: #005eb9;
+    font-size: 2em;
+    font-family: 'Neucha', cursive;
+    margin-top: 10%;
+}
+.div{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.func{
+    margin-top: 10%;
+}
+.func h3{
+    color: #005eb9;
+    font-size: 2em;
+    font-family: 'Neucha', cursive;
+    margin-top: 10%;
+}
+.main img{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.vantagens{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+.v1{
+    margin-left: 25%;
+}
+.v2{
+    margin-left: 20%;
+}
+.v1 h3{
+    color: #000;
+    font-size: 1.3em;
+    font-family: 'Neucha', cursive;
+    margin-top: 5%;
+    text-align: center;
+    margin-left: -15%;
+}
+.v2 h3{
+    color: #000;
+    font-size: 1.3em;
+    font-family: 'Neucha', cursive;
+    margin-top: 10%;
+    text-align: center;
+}
+.linha{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.anuncio h2{
+    color: #fff;
+    font-family: 'Neucha', cursive;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: -40%;
+    font-size: 3em;
+    text-shadow: 0px 4px #005eb9;
+    padding-top: 15%;
+}
+.anuncio{
+    background-image: url(../imgens/moça.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+    margin-left: 5%;
+}
+.imagens1{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 581.5%;
+    left: 21%;
+}
+.plano1{
+    border: black 1.3px solid;
+    border-radius: 5%;
+    height: 200px;
+    width: 250px;
+    margin-left: 17%;
+}
+.plano1 h3{
+    margin-left: 10%;
+    color: #005eb9;
+    font-size: 0.9em;  
+}
+.para1{
+    margin-top: 1%;
+    position: absolute;
+    left: 15%;
+    
+}
+.para2{
+    margin-top: 4%;
+    position: absolute;
+    left: 15%;
+}
+.para3{
+    margin-top: 7%;
+    position: absolute;
+    left: 15%;
+}
+.planoimg{
+    margin-left: 20.5%;
+    margin-top: 8%;
+}
+.c1{
+    margin-left: 8%;
+    margin-top: -4%;
+}
+.c2{
+    margin-top: 1%;
+    margin-left: 8.3%;
+}
+.c3{
+    margin-top: 1%;
+    margin-left: 8.2%;
+}
+.azul{
+    margin-top: 10%;
+    margin-left: -45%;
+}
+.cont{
+    text-decoration: none;
+    position: absolute;
+    left: 22%;
+    background-color: #005eb9;
+    color: #fff;
+    font-family: 'Neucha', cursive;
+    margin-top: 11%;
+    width: 85px;
+    padding-left: 1.5%;
+    border: 1px solid black;
+}
+a:hover{
+    background-color: #ffa61f;
+    color: black;
+}
+.plano2{
+    border: black 1.3px solid;
+    border-radius: 5%;
+    height: 200px;
+    width: 250px;
+    margin-left: 41.35%;
+    margin-top: -13.3%;
+    
+}
+.planoimg2{
+    position: absolute;
+    top: 565.3%;
+    left: 44.5%;
+}
+.imagens2{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 581.3%;
+    left: 45.7%;
+}
+.para4{
+    position: absolute;
+    top: 582.8%;
+    left: 49.9%;
+    font-size: 1.1em;
+}
+.para5{
+    position: absolute;
+    top: 589.2%;
+    left: 49.9%;
+    font-size: 1.1em;
+}
+.para6{
+    position: absolute;
+    top: 595.8%;
+    left: 49.9%;
+    font-size: 1.1em;
+}
+.plano2{
+    color: #005eb9;
+    font-size: 0.8em;  
+}
+.cont2{
+    text-decoration: none;
+    position: absolute;
+    font-size: 1.3em;
+    left: 46%;
+    top: 603.7%;
+    background-color: #005eb9;
+    color: #fff;
+    font-family: 'Neucha', cursive;
+    width: 85px;
+    height: 19px;
+    padding-top: 0.1%;
+    padding-left: 1.5%;
+    border: 1px solid black;
+}
+.blue{
+    margin-top: 10%;
+    margin-left: -45%;
+}
+.planoimg3{
+    position: absolute;
+    top: 565.3%;
+    left: 69.5%;
+}
+.plano3{
+    border: black 1.3px solid;
+    border-radius: 5%;
+    height: 200px;
+    width: 250px;
+    margin-left: 66%;
+    margin-top: -13.3%;
+}
+.imagens3{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 581.3%;
+    left: 70%;
+}
+.para7{
+    position: absolute;
+    top: 582.8%;
+    left: 73.5%;
+    font-size: 0.9em;
+    color: #005eb9;
+    
+}
+.para8{
+    position: absolute;
+    top: 582.8%;
+    left: 73.5%;
+    font-size: 0.9em;
+    color: #005eb9;
+    top: 589.2%;
+    
+}
+.para9{
+    position: absolute;
+    left: 73.5%;
+    font-size: 0.9em;
+    color: #005eb9;
+    top: 595.8%;   
+}
+.cont3{
+    text-decoration: none;
+    position: absolute;
+    font-size: 1em;
+    left: 71.1%; 
+    top: 603.7%;
+    background-color: #005eb9;
+    color: #fff;
+    font-family: 'Neucha', cursive;
+    width: 85px;
+    height: 19px;
+    padding-top: 0.1%;
+    padding-left: 1.5%;
+    border: 1px solid black;
+}
+
+.div1{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.contatot{
+    text-align: center;
+    margin-left: -2%;
+    font-family: 'Neucha', cursive;
+    font-size: 4em;
+    text-shadow: 2px 2px #000;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 10%;
+    background-image: url(../imgens/contato.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    padding-top: 20%;
+    margin-left: 0%;
+}
+.contatos{
+    font-weight: bold;
+    font-family: 'Neucha', cursive;
+    font-size: 3em;
+    margin-left: 42%;
+    margin-top: 10%;
+    text-shadow: 0 2px #1f79ff;
+}
+.contato{
+    display: flex;
+    flex-direction: row;
+}
+.tel{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    border: black 1px solid;
+    border-radius: 10px;
+    margin-left: 9%;
+    margin-top: 10%;
+    width: 40%;
+    height: 125px;
+}
+.tel p{
+    color: #005eb9;
+    margin-top: 7%;
+    margin-left: 10%;
+    font-size: 2em;
+}
+.tel img{
+    margin-left: 6%;
+    margin-top: 2%;
+}
+.pin{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    border: black 1px solid;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-top: 10%;
+    width: 40%;
+    height: 125px;
+}
+.pin p{
+    color: #005eb9;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 2em;
+}
+.pin img{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.mapa{
+    margin-top: 10%;
+}
+.anuncio2{
+    background-image: url(../imgens/comente.png);
+    height: 700px;
+    width: 100%;
+    font-family: 'Neucha', cursive;
+    color: #fff;
+    padding-top: 20%;
+    padding-left: -1%;
+    font-size: 4em;
+    text-align: center;
+    text-shadow: 0 4px #005eb9;
+
+}
+.teste{
+    color: white;
+    background: #005eb9;
+    text-decoration: none;
+    margin-left: 39%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    border: #000 solid 1px;
+    border-radius: 5px;
+}
+input{
+    width: 30%;
+    margin-top: 1%;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    margin-left: 35%;
+}
+label{
+    margin-top: 1%;
+    font-family: 'Neucha', cursive;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    text-shadow: 0 2px #005eb9;
+}
+.envia{
+    margin-left: 35.3%;
+}
+.comentar{
+    font-family: 'Neucha', cursive;
+}
+.comentario h3{
+    color: #005eb9;
+    font-size: 3em;
+    font-family: 'Neucha', cursive;
+    text-shadow: 0 2px #ffa61f;
+    margin-left: 33%;
+    margin-top: 10%;
+}
+.campo{
+    width: 1000px;
+    height: 100px;
+    margin-left: 16%;
+    border: 1px solid black;
+    margin-top: 1%;
+}
+.comente{
+    font-size: 2em;
+    margin-left: 16%;
+    margin-top: 5%;
+    color: #005eb9;
+    text-shadow: 0 2px #ffa61f;
+    font-family: 'Neucha', cursive;
+}
+.hist{
+    margin-top: 10%;
+    text-align: center;
+    background-image: url(../imgens/historia.jpg);
+    background-repeat: no-repeat;
+    height: 900px;
+    margin-left: 10%;
+    padding-top: 10%;
+    font-family: 'Neucha', cursive;
+    font-size: 4em;
+    padding-right: 13%;
+    text-shadow: 0 4px #005eb9;
+}
+.historia0{
+    display: flex;
+    background: #005eb9;
+    margin-top: -15%;
+}
+.historia1{
+    font-size: 2em;
+    font-family: 'Neucha', cursive;
+    text-align: center;
+    background: #005eb9;
+    color: white;
+    height: 380px;
+    width: 800px;
+    padding-top: 19%;
+}
+.historia2{
+    border-top: 4px solid #005eb9;
+    border-right: 4px solid #005eb9;
+}
+.historia3{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 5%;
+    background: #ffa61f;
+}
+.historia4{
+    color: #000;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Neucha', cursive;
+    padding-top: 23%;
+}
+.historia5{
+    border-top: 4px solid #ffa61f;
+    border-left: 4px solid #ffa61f; 
+}
+.eqp{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+.f1{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-family: 'Neucha', cursive;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 20%;
+}
+.f1 img{
+    border: 2px solid black;
+}
+.f2{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-family: 'Neucha', cursive;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 10%;
+}
+.f2 img{
+    border: 2px solid black;
+
+}
+.f3{
+    margin-top: 10%;
+    margin-left: -1%;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Neucha', cursive;
+}
+.f3 img{
+    border: 2px solid black;
+}
+footer{
+    background: #005eb9;
+    margin-top: 10%;
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    margin-left: 36%;
+    margin-top: 5%;
+}
+footer img{
+    margin-left: 4%;
+}
+footer h3{
+    font-family: 'Neucha', cursive;
+    color: #000;
+    font-size: 1.3em;
+    padding-top: 5%;
+    margin-left: 41.2%;
+}
+footer a{
+    text-decoration: none;
+    font-size: 1em;
+    margin-left: 45.4%;
+    font-family: 'Neucha', cursive;
+    color: #fff;
+}
+.copy{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: bold;
+    color: #fff;
+    font-size: 0.9em;
+}
+@media screen and (max-width: 1366px){
+    .logotipo{
+        position: absolute;
+        left: 10%;
+    }
+    .p1{
+        margin-left: 30%;
+    }
+    .p2{
+        margin-left: 0%;
+    }
+    .anuncio{
+        margin-left: 0%;
+    }
+    .teste{
+        margin-left:  37.5%;
+    }
+    .planoimg{
+        margin-left: 20.8%;
+    }
+    .para2{
+        margin-top: 4.5%;
+    }
+    .para3{
+        margin-top: 8%;
+    }
+    .cont{
+        margin-left: 1%;
+        width: 6%;
+        margin-top: 12%;
+        
+    }
+    .imagens1{
+        position: absolute;
+        top: 495.9%;
+        left: 20.8%;;
+    }
+    .plano2{
+        position: absolute;
+        top: 517.3%;
+    }
+    .para4{
+        position: absolute;
+        top: 7%;
+        left: 43%;
+    }
+    .para5{
+        position: absolute;
+        top: 30%;
+        left: 43%;
+    }
+    .para6{
+        position: absolute;
+        top: 53%;
+        left: 43%;
+    }
+    .planoimg2{
+        position: absolute;
+        top: 481.5%;
+        left: 45%;;
+    }
+    .imagens2{
+        position: absolute;
+        top: 0.4%;
+        left: 21%;
+    }
+    .cont2{
+        position: absolute;
+        top: 82%;
+        left: 30%;
+        padding-bottom: 1px;
+        padding-left: 17px;
+    }
+    .plano3{
+        position: absolute;
+        top: 517.3%;
+    }
+    .planoimg3{
+        position: absolute;
+        top: 481.5%;
+        left: 70%;
+    }
+    .imagens3{
+        position: absolute;
+        top: 0.4%;
+        left: 21%;
+    }
+    .cont3{
+        position: absolute;
+        top: 82%;
+        left: 30%;
+        padding-bottom: 1px;
+        padding-left: 17px;
+    } 
+    .para7{
+        position: absolute;
+        top: 7%;
+        left: 43%;
+    }
+    .para8{
+        position: absolute;
+        top: 30%;
+        left: 43%;
+    }
+    .para9{
+        position: absolute;
+        top: 53%;
+        left: 43%;
+    }
+    .pin p{
+        margin-top: 1%;
+    }
+    form{
+        margin-left: 17%;
+    }
+    .comente{
+        margin-left: 13%;
+    }
+    .campo{
+        margin-left: 13%;
+    }
+    .hist{
+        margin-left: 6%;
+    }
+    .eqp{
+        margin-left: -6%;
+    }
+    .f3{
+        margin-left: 0.7%;
+    }
+    .redes{
+        margin-left: 36.3%;
+    }
+    footer a{
+        margin-left: 46%;
+    }
+    .copy{
+        font-size: 1.3em;
+    }
+}
+@media screen and (max-width: 768px){
+    .logotipo{
+        position: absolute;
+        left: 0%;
+        top: 0%;
+        height: 150px;
+        width: 125px;
+    }
+    .p1 ul{
+        font-size: 0.5em;
+    }
+    .p1{
+        margin-left: 25%;
+    }
+    .p2 ul{
+        font-size: 0.5em;
+        text-align: center;
+    }
+    .banner{
+        font-size: 0.8em;
+    }
+    .banner h1{
+        padding-top: 10%;
+    }
+    .oqe{
+        margin-top: -50%;
+    }
+    .vantagens{
+        margin-left: -18%;
+    }
+    .anuncio{
+        background-repeat: repeat-x;
+        margin-left: -45%;
+        width: 1200px;
+        margin-top: -7%;
+    }
+    .anuncio h2{
+        padding-left:  25%;
+        padding-top: 20%;
+    }
+    .anuncio2{
+        margin-top: 35%;
+    }
+    .teste{
+        position: absolute;
+        top: 380%;
+        left: -3%;
+    }
+    .planoimg{
+        position: absolute;
+        top: 389%;
+        left: -15%;
+    }
+    .plano1{
+        position: absolute;
+        left: -17%;
+        margin-top: 10%;
+    }
+    .imagens1{
+        position: absolute;
+        top: 3%;
+        left: 21%;
+    }
+    .para1{
+        position: absolute;
+        top: 6%;
+        left: 35%;
+    }
+    .para2{
+        position: absolute;
+        top: 27%;
+        left: 35%;
+    }
+    .para3{
+       position: absolute;
+        top: 47%;
+        left: 35%;
+    }
+    .cont{
+        position: absolute;
+        top: 70%;
+        left: 32%;
+        width: 75px;
+        padding-left: 15px;
+    }
+    .azul{
+        margin-left: -51%;
+        width: 616px;
+    }
+    .planoimg2{
+        position: absolute;
+        top: 397.2%;
+        left: 41%;
+    }
+    .plano2{
+        position: absolute;
+        left: -8%;
+        top: 402.15%;
+        margin-top: 10%;
+    }
+    .cont2{
+        position: absolute;
+        top: 85%;
+        left: 30.3%;
+        width: 79px;
+        padding-left: 13px;
+        height: 18.5px;
+    }
+
+    .planoimg3{
+        position: absolute;
+        top: 397.2%;
+        left: 75%;
+    }
+    .plano3{
+        position: absolute;
+        top: 426%;
+        left: 1%;
+    }
+    .cont3{
+        position: absolute;
+        top: 85%;
+        left: 30.3%;
+        width: 79px;
+        padding-left: 13px;
+        height: 18.5px;
+    }
+    .contatot{
+        font-size: 2.5em;
+        height: 550px;
+        padding-top: 30%;
+    }
+    .contatos{
+        margin-left: 37.3%;
+    }
+    .contato{
+        display: flex;
+        flex-direction: column;
+    }
+    .tel{
+        width: 600px;
+    }
+    .pin{
+        width: 600px;
+        margin-left: 9%;
+    }
+    .pin p{
+        margin-top: 4%;
+    }
+    .mapa{
+        height: 250px;
+    }
+    .anuncio2{
+        margin-left: -70%;
+        background-repeat: repeat-x;
+        width: 1500px;
+        padding-left: 20%;
+        font-size: 3em;
+        padding-top: 40%;
+        height: 600px;
+    }
+    .comentario{
+        margin-left: -20.5%;
+    }
+    .campo{
+        width: 616px;
+        margin-left: 9%;
+    }
+    .comente{
+        margin-left: 9%;
+    }
+    .hist{
+        margin-left: -30%;
+        margin-top: 5%;
+        padding-top: 30%;
+        padding-left: 45%;
+        font-size: 3em;
+    }
+    .historia0{
+        display: flex;
+        flex-direction: column;
+        margin-top: -70%;
+    }
+    .historia1{
+        font-size: 2em;
+        margin-left: -4%;
+        padding-top: 7%;
+    }
+    .historia2{
+        border: none;
+    }
+    .historia3{
+        display: flex;
+        flex-direction: column;
+    }
+    .historia4{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .f1 p{
+        margin-left: -10%;
+    }
+    .f1{
+        text-align: center;
+        font-size: 1.2em;
+    }
+    .f1 img{
+        width: 200px;
+    }
+    .f2 img{
+        width: 200px;
+        height: 230px;
+    }
+    .f2{
+        text-align: center;
+        font-size: 1.2em;
+    }
+    .f2 p{
+        margin-left: -10%;
+    }
+    .f3{
+        margin-left: 1%;
+    }
+    footer h3{
+        margin-left: 33%;
+    }
+    .redes{
+        margin-left: 29%;
+    }
+    footer a{
+        margin-left: 42%;
+    }
+    footer p{
+        font-size: 0.8em;
+    }
+}    
+@media screen and (max-width: 480px){
+    .logotipo{
+        width: 100px;
+        height: 110px;
+    }
+    .menu{
+        font-size: 0.7em;
+    }
+    .p1{
+        margin-left: 20%;
+    }
+    .banner{
+        font-size: 0.5em;
+    }
+    .oqe{
+        margin-top: -120%;
+        font-size: 0,9em;
+    }
+    .vantagens{
+        display: flex;
+        flex-direction: column;
+    }
+    .v1 img{
+        margin-left: 20%;
+    }
+    .v2 img{
+        margin-left: 25%;
+        margin-top: 5%;
+    }
+    .v2 h3{
+        margin-left: -9%;
+        margin-top: 1%;
+    }
+    .anuncio{
+        background-image: none;
+    }
+    .anuncio h2{
+        color: #000;
+        margin-top: -15%;
+        margin-left: -51%;
+    }
+    .teste{
+        position: absolute;
+        top: 290%;
+        left: -9%;
+    }
+    .planoimg{
+        position: absolute;
+        top: 300%;
+        left: 14.5%;
+    }
+    .plano1{
+        position: absolute;
+        top: 315%;
+        left: 7%;
+    }
+    .cont{
+        margin-left: 1%;
+        width: 75px;
+    }
+    .planoimg2{
+        position: absolute;
+        top: 360%;
+        left: 35.3%;
+    }
+    .plano2{
+        position: absolute;
+        top: 370%;
+        left: -16.95%;
+    }
+    .cont2{
+        margin-left: 1%;
+        width: 75px;
+    }
+    .planoimg3{
+        position: absolute;
+        top: 415%;
+        left: 35.3%;
+    }
+    .plano3{
+        position: absolute;
+        top: 439.6%;
+        left: -41.7%;
+
+    }
+    .cont3{
+        margin-left: -7%;
+        width: 105px;
+    }
+    .contatot{
+        height: 400px;
+    }
+    .contatos{
+        margin-left: 28%;
+    }
+    .tel{
+        width: 360px;
+        margin-left: 10.5%;
+    }
+    .tel p{
+        font-size: 1em;
+        margin-top: 15%;
+        margin-left: 1.5%;
+    }
+    .pin{
+        width: 360px;
+        margin-left: 10.5%;
+    }
+    .pin p{
+        font-size: 1em;
+        margin-top: 15%;
+        margin-left: -1%;
+    }
+    .anuncio2{
+        background-image: none;
+        color: #000;
+        margin-left: -130%;
+        font-size: 2.5em;
+        margin-top: 130%;
+    }
+    .comentario{
+        margin-top: -60%;
+    }
+    .comentario h3{
+        text-align: center;
+        margin-left: 15%;
+        font-size: 1.5em;
+    }
+    .comente{
+        margin-left: 17%;
+    }
+    .campo{
+        width: 300px;
+        margin-left: 17%;
+    }
+    .historia0{
+        margin-top: -90%;
+    }
+    .historia1{
+        font-size: 1em;
+        margin-left: -37%;
+        padding-top: 40%;
+    }
+    .historia4{
+        font-size: 1em;
+        padding-top: 30%;
+        padding-bottom: 30%;
+        margin-top: -10%;
+    }
+    .eqp{
+        flex-direction: column;
+    }
+    .f1 img{
+        margin-left: 17%;
+    }
+    .f2{
+        margin-top: 5%;
+    }
+    .f2 img{
+        margin-left: 26%;
+    }
+    .f1 p{
+        margin-left: -13%;
+    }
+    .f2 p{
+        margin-left: -4%;
+    }
+    .f3 img{
+        width: 400px;
+    }
+    footer h3{
+        margin-left: 25%;
+    }
+    .redes{
+        margin-left: 21%;
+    }
+    footer a{
+        margin-left: 38%;
+    }
+}

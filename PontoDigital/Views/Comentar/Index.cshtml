@@ -1,0 +1,35 @@
+@model PontoDigital.ViewModels.ComentarioViewModel
+@{
+    Layout = "_Layout";
+}
+@{
+    Html.RenderPartial("_HeaderNavBar");
+}
+    <h1>Comente sobre o Ponto Digital</h1>
+    
+    <div class="comentado">
+        <p>Comente:</p>
+        <form method="POST" action='@Url.Action("Comentar", "Comentar")'">
+            <textarea name="comentario" id=""></textarea>
+            <input type="submit" class="comentar" value="Comentar">
+        </form>
+
+
+        <h3>Comentários:</h3>
+
+                
+        <div id="comentsUser"> 
+            @foreach (var item in @Model.listaDeComentarios)
+            {
+                <div>
+                    <p>Id: @item.Id</p>
+                    <p>Nome: @item.Nome</p>
+                    <p>@item.Texto</p>
+                    <p class="data">@item.Data</p>
+                </div>
+                
+            }
+
+        </div>
+        
+    </div>

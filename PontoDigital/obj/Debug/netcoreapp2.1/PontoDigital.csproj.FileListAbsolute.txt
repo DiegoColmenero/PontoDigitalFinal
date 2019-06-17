@@ -1,0 +1,90 @@
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csprojAssemblyReference.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csproj.CoreCompileInputs.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorAssemblyInfo.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorAssemblyInfo.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.AssemblyInfoInputs.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.AssemblyInfo.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.TagHelpers.input.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.TagHelpers.output.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorCoreGenerate.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Comentar\ComentarioSucesso.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Comentar\Index.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HeaderNavBar.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorTargetAssemblyInfo.cache
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorTargetAssemblyInfo.cs
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.dll
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.pdb
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.deps.json
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.runtimeconfig.json
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.runtimeconfig.dev.json
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.dll
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.pdb
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.Views.dll
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.Views.pdb
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.Views.pdb
+C:\Users\jpcol\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csproj.CopyComplete
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.deps.json
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.runtimeconfig.json
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.runtimeconfig.dev.json
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.dll
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.pdb
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.Views.dll
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.Views.pdb
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csprojAssemblyReference.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csproj.CoreCompileInputs.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorAssemblyInfo.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorAssemblyInfo.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.AssemblyInfoInputs.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.AssemblyInfo.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.TagHelpers.input.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.TagHelpers.output.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorCoreGenerate.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Comentar\ComentarioSucesso.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Comentar\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HeaderNavBar.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorTargetAssemblyInfo.cache
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorTargetAssemblyInfo.cs
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.Views.pdb
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.dll
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.pdb
+C:\Users\46938238804\Desktop\Trabalho Final\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csproj.CopyComplete
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.deps.json
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.runtimeconfig.json
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.runtimeconfig.dev.json
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.dll
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.pdb
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.Views.dll
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\bin\Debug\netcoreapp2.1\PontoDigital.Views.pdb
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csprojAssemblyReference.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csproj.CoreCompileInputs.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorAssemblyInfo.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorAssemblyInfo.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.AssemblyInfoInputs.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.AssemblyInfo.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.TagHelpers.input.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.TagHelpers.output.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorCoreGenerate.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Comentar\ComentarioSucesso.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Comentar\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HeaderNavBar.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorTargetAssemblyInfo.cache
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.RazorTargetAssemblyInfo.cs
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.Views.pdb
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.dll
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.pdb
+C:\Users\46938238804\Desktop\PontoDigitalFinal\PontoDigital\obj\Debug\netcoreapp2.1\PontoDigital.csproj.CopyComplete

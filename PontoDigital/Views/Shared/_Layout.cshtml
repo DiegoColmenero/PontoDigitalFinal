@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ponto Digital</title>
+    <link href="https://fonts.googleapis.com/css?family=Neucha" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="~/css/cadastro.css"> -->
+    @if (!"Home".Equals((string) ViewData["NomeView"])) {
+        <link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        
+    }
+</head>
+<body class="flex-container">
+    @RenderBody()
+    <footer>
+        <h3>Encontre-nos nas redes sociais</h3>
+        <div class="redes">
+        <img src="~/imgens/face1.png" alt="facebook" width="50px" height="50px">
+        <img src="~/imgens/Instagram-512.png" alt="google" width="50px" height="50px">
+        <img src="~/imgens/twitter1.png" alt="twter" width="50px" height="50px">
+        <img src="~/imgens/whats.png" alt="whats" width="50px" height="50px">
+        </div>
+        <br>
+        <br>
+        <a href="index.html" class="volta">Voltar para o topo</a>
+        <div class="copy">
+            <p>Imagens meramente ilustrativas. Copyright 2019 © Agora Vai (Ponto Digital) – Todos os direitos reservados. É proibida a reprodução parcial ou total do conteúdo desse site.
+                AGORA VAI EMPREENDIMENTOS S.A - CNPJ: 24.078.954/0007-00</p>
+        </div>
+        
+    </footer>
+</body>

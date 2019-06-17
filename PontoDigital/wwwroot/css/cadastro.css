@@ -1,0 +1,52 @@
+form{
+    display: flex;
+    flex-direction: column;
+    background-image: url(../imgens/BJAN-NIGERIA-BRANDSPURNG.jpg);
+    background-repeat: no-repeat;
+    border: 2px black;
+    border-radius: 2%;
+    border-style: solid;
+    background-size: 1000px;
+    max-width: 900px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    background-image: none;
+    background-color: none;
+    border: 2px black;
+    border-radius: 2%;
+    border-style: solid;
+    background-size: 1000px;
+    max-width: 900px;
+    margin-left: 20%;
+    margin-top: 24%;
+    height: 100px;
+}
+.login label{
+    margin-top: 10%;
+    margin-left: 28%;
+    text-shadow: 0 2px #ffa61f;
+    color: #005eb9;
+}
+.login input{
+    margin-left: 6%;
+}
+.enviar{
+    position: absolute;
+    left: 29%;
+    top: 206%;
+}
+ .acesseT{
+    position: absolute;
+    top: 167%;
+    left: 7%;
+} 
+.comentarioSucesso{
+    font-family: 'Neucha', cursive;
+    margin-top: 11%;
+    text-align: center;
+    color: #005eb9;
+}

@@ -1,0 +1,91 @@
+@model PontoDigital.ViewModels.AdministradorViewModel;
+
+@{
+    Layout = "_Layout";
+}
+@{
+    Html.RenderPartial("_HeaderNavBar");
+}
+
+
+    @foreach (var item in @Model.listaDeComentarios)
+    {
+        <div>
+            <div>
+                <div>
+                    @if (!@item.Aprovado)
+                    {   
+                        <a href="/Administrador/Aprovar?id=@item.Id" class="aprovado">Aprovar</a>
+                    }else
+                    {
+                        <a href="/Administrador/Aprovar?id=@item.Id" class="reprovado">Reprovar</a>
+                    }
+                    
+                    <a href="/Administrador/Deletar?id=@item.Id" >Deletar</a>
+                </div>
+                
+            </div>
+            <p class="id">Id: @item.Id</p>
+            <p class="nome">Nome: @item.Nome</p>
+            <p class="texto">@item.Texto</p>
+            <p class="data">@item.Data</p>
+        </div>  
+    }
+
+    <h3>Informações sobre o programa:</h3>
+    <div id="dadosGerais">
+        <p>Quantidade de usuarios: @Model.QuantidadeDeUsuarios</p>
+        <br>
+        <p>Quantidade de comentários: @Model.QuantidadeDeComentarios</p>
+        <br>
+        <p>Comentários aprovados: @Model.QuantidadeDeAprovados</p>
+        <br>
+        <p>Comentários reprovados: @Model.QuantidadeDeReprovados</p>
+    </div>
+    <br>
+    <div>
+        <div id="comentarios" class="ultimos" >
+            <h4>Ultimos comentarios: </h4>
+
+            @for (int i = 0; i < @Model.listaDeComentarios.Count; i++)
+            {
+                if (i >= @Model.listaDeComentarios.Count-3)
+                {
+                    <div class="comentario">
+                        <div class="topo">
+                            <p class="nomeEmail">@Model.listaDeComentarios[i].Nome</p>
+                        </div>
+                        <p>@Model.listaDeComentarios[i].Texto</p>
+                        <p class="data">@Model.listaDeComentarios[i].Data.ToShortDateString()</p>
+                    </div> 
+                    
+                }
+            }
+
+        </div>
+        <br>
+        <div id="cadastros">
+            <h4>Usuários cadastrados:</h4>
+
+            @for (int i = 0; i < @Model.listaDeUsuarios.Count; i++)
+            {
+                if (i >= @Model.listaDeUsuarios.Count-5)
+                {
+                    <div class="cadastro">
+                        
+                            <p class=""> <span>Id: @Model.listaDeUsuarios[i].Id </span> - Nome: @Model.listaDeUsuarios[i].Nome - Email: @Model.listaDeUsuarios[i].Email <br> Data de Nascimento: @Model.listaDeUsuarios[i].DataNascimento.ToShortDateString()</p>
+                    </div> 
+                    
+                }
+            }
+
+        </div>
+    
+    </div>
+
+
+    <br>
+    
+</section>
+
+
